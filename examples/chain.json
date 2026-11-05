@@ -1,0 +1,5 @@
+[
+  {"id":"A","label":"part","score":0.9,"box":[0,0,10,10]},
+  {"id":"B","label":"part","score":0.8,"box":[3,0,13,10]},
+  {"id":"C","label":"part","score":0.7,"box":[6,0,16,10]}
+]

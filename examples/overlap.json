@@ -1,0 +1,6 @@
+[
+  {"id":"A","label":"gear","score":0.95,"box":[0,0,10,10]},
+  {"id":"B","label":"gear","score":0.88,"box":[2,0,12,10]},
+  {"id":"C","label":"label","score":0.80,"box":[2,0,12,10]},
+  {"id":"D","label":"gear","score":0.40,"box":[14,0,19,5]}
+]
