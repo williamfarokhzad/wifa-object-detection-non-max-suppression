@@ -2,6 +2,7 @@
 
 Build a small, explainable NMS tool for already-generated boxes. The three JSON fixtures are synthetic. No detector, GPU, camera or third-party package is needed.
 
+Full illustrated lesson: https://wifarobotics.com/learn/object-detection-non-max-suppression/
 
 1. Install a supported Python 3.11 or newer from [Python.org](https://www.python.org/downloads/).
 2. Select **Code**, **Download ZIP** on GitHub. Extract the folder and open a terminal in it.
